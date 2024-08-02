@@ -1,9 +1,10 @@
 # Multi Containers App
 
-This is a repo for new users getting started with Docker.
+Official docker tutorial for multi containers app.
 
 You can try it out using the following command.
 
-```docker compose up -d```
+`docker compose up -d`
 
-And open http://localhost:3000 in your browser.
+And open <http://localhost:3000> in your browser.
+
